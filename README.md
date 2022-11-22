@@ -1,5 +1,5 @@
 # Analise-Critica-Scrum
-Este repositório conta com uma análise crítica sobre a Sony
+Este repositório conta com uma análise crítica sobre a aplicação Scrum - Case de sucesso Sony
 
 O surgimento da Sony
 
